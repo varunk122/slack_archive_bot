@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1597873495.000200",
+        "user": "U019J1GN82D",
+        "text": "<@U019J1GN82D> has joined the channel"
+    },
+    {
+        "client_msg_id": "20d2f9b8-5274-40d7-9963-678791cea098",
+        "type": "message",
+        "text": ":wave: Hello, team!",
+        "user": "U019J1GN82D",
+        "ts": "1597873501.000400",
+        "team": "T018YLEDLBY",
+        "user_team": "T018YLEDLBY",
+        "source_team": "T018YLEDLBY",
+        "user_profile": {
+            "avatar_hash": "g11fb1958da2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11fb1958da2ed1445b27b99ebfb1dc75.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "varunkhatri122",
+            "display_name": "",
+            "team": "T018YLEDLBY",
+            "name": "varunkhatri122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bvD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ff93542-ddf2-4828-9a18-719f27ed4a57",
+        "type": "message",
+        "text": "First order of business…",
+        "user": "U019J1GN82D",
+        "ts": "1597873503.000600",
+        "team": "T018YLEDLBY",
+        "user_team": "T018YLEDLBY",
+        "source_team": "T018YLEDLBY",
+        "user_profile": {
+            "avatar_hash": "g11fb1958da2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11fb1958da2ed1445b27b99ebfb1dc75.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "varunkhatri122",
+            "display_name": "",
+            "team": "T018YLEDLBY",
+            "name": "varunkhatri122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qGVr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First order of business…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44d8eca5-0444-411d-b953-a433a40eda0c",
+        "type": "message",
+        "text": "First order of business…",
+        "user": "U019J1GN82D",
+        "ts": "1597873504.000800",
+        "team": "T018YLEDLBY",
+        "user_team": "T018YLEDLBY",
+        "source_team": "T018YLEDLBY",
+        "user_profile": {
+            "avatar_hash": "g11fb1958da2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11fb1958da2ed1445b27b99ebfb1dc75.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "varunkhatri122",
+            "display_name": "",
+            "team": "T018YLEDLBY",
+            "name": "varunkhatri122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "First order of business…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09b9f97a-b01c-40c8-9857-3eef96e00f8f",
+        "type": "message",
+        "text": ":wave: Hello, team!",
+        "user": "U019J1GN82D",
+        "ts": "1597873505.001000",
+        "team": "T018YLEDLBY",
+        "user_team": "T018YLEDLBY",
+        "source_team": "T018YLEDLBY",
+        "user_profile": {
+            "avatar_hash": "g11fb1958da2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/11fb1958da2ed1445b27b99ebfb1dc75.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "",
+            "real_name": "varunkhatri122",
+            "display_name": "",
+            "team": "T018YLEDLBY",
+            "name": "varunkhatri122",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xF9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "wave"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hello, team!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -18,6 +18,7 @@ The new API system introduces more fine grained control over permissions of your
 
 Got to https://api.slack.com/apps and Create New App. Then click on your app (also here) and go to Add features and functionality -> Permissions -> Scopes and add the following scopes User Token Scopes:
 
+```
 channels:history
 channels:read
 groups:history
@@ -27,4 +28,5 @@ im:read
 mpim:history
 mpim:read
 users:read
+```
 Then install the app in your workspace, accept the permissions and copy the token. It says OAuth Access Token, tbh I'm not really sure, but I think this should be the user token then.

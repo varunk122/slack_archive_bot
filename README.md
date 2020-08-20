@@ -36,3 +36,15 @@ Then install the app in your workspace, accept the permissions and copy the toke
 ``` 
 sudo pip3 install slacker pick slack-export-viewer
 ```
+
+## HOW TO HOST LOCALLY ->
+
+After creating user permission token , run following commands ->
+
+```
+python3 slack_export.py --token xoxp-1304694462406-1324050756081-1320215575588-7a0f1ea528c0f9b471df9b12c6a6a627 --zip slack_export
+chmod +x modify_export_data.sh
+./modify_export_data.sh <path_to_export_folder>
+slack-export-viewer <path_to_export_zip_folder>
+```
+

@@ -34,7 +34,7 @@ Then install the app in your workspace, accept the permissions and copy the toke
 ## DEPENDENCIES ->
 
 ``` 
-sudo pip3 install slacker pick slack-export-viewer
+sudo -H pip3 install slacker pick slack-export-viewer flask frozen-flask click
 ```
 
 ## HOW TO HOST LOCALLY ->
@@ -46,5 +46,11 @@ python3 slack_export.py --token xoxp-1304694462406-1324050756081-1320215575588-7
 chmod +x modify_export_data.sh
 ./modify_export_data.sh <path_to_export_folder>
 slack-export-viewer <path_to_export_zip_folder>
+```
+
+## CONVERT EXPORTED SLACK DATA TO HTML WEBPAGES
+
+```
+python3 ./slack2html.py -z /path/to/export/zip -o /path/to/output/dir
 ```
 

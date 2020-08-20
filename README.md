@@ -29,4 +29,10 @@ mpim:history
 mpim:read
 users:read
 ```
-Then install the app in your workspace, accept the permissions and copy the token. It says OAuth Access Token, tbh I'm not really sure, but I think this should be the user token then.
+Then install the app in your workspace, accept the permissions and copy the token. 
+
+## DEPENDENCIES ->
+
+``` 
+sudo pip3 install slacker pick slack-export-viewer
+```

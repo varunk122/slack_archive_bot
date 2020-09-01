@@ -1,7 +1,7 @@
 # slack_archive_bot
 
 
-#important links
+# important links
 
 http://fabian-kostadinov.github.io/2014/11/13/installation-of-jekyll-auth/
 

@@ -1,4 +1,3 @@
 source "https://rubygems.org"
 
-gem 'jekyll-auth'
-gem 'rack-wwwhisper', '~> 1.0'
+gem 'jekyll-auth', '0.6.1'
